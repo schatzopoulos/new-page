@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkevantay_com=self.webpackChunkevantay_com||[]).push([[7393],{843:function(a){a.exports=JSON.parse('{"label":"sharing","permalink":"/blog/tags/sharing","allTagsPath":"/blog/tags","count":2}')}}]);

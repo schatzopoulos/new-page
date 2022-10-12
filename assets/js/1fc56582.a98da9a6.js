@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkevantay_com=self.webpackChunkevantay_com||[]).push([[857],{7253:function(a){a.exports=JSON.parse('{"label":"investing","permalink":"/blog/tags/investing","allTagsPath":"/blog/tags","count":1}')}}]);

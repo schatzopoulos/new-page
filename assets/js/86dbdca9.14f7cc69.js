@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkevantay_com=self.webpackChunkevantay_com||[]).push([[1345],{2339:function(e){e.exports=JSON.parse('{"label":"conference","permalink":"/blog/tags/conference","allTagsPath":"/blog/tags","count":1}')}}]);
