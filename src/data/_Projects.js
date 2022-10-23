@@ -154,7 +154,7 @@ const projects = [
     title: "SciNeM",
     slug: "#scinem",
     imageUrl: "img/projects/scinem.png",
-    subtitle: "Offering discovery, access, and enhancement services for open linked research.",
+    subtitle: "A scalable data science tool for heterogeneous network mining.",
     period: "Aug 2019 - Dec 2021",
     tech: "Apache Spark; Java; React",
     description: (
