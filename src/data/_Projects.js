@@ -156,7 +156,7 @@ const projects = [
     imageUrl: "img/projects/scinem.png",
     subtitle: "A scalable data science tool for heterogeneous network mining.",
     period: "Aug 2019 - Dec 2021",
-    tech: "Apache Spark; Java; React",
+    tech: "Apache Spark; Java; React.js",
     description: (
       <>
         <p>
