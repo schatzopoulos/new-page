@@ -87,7 +87,7 @@ const publications = [
 		title: "VeTo-web: A Recommendation Tool for the Expansion of Sets of Scholars",
 		authors: "S. Chatzopoulos, T. Vergoulis, T. Dalamagas, C. Tryfonopoulos",
 		year: 2021, 
-		venue: "International Journal on Digital Libraries (IJDL)",
+		venue: "ACM/IEEE Joint Conference on Digital Libraries (JCDL)",
 		links: {
 			// article: 
 			// video:
