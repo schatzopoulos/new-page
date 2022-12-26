@@ -51,7 +51,7 @@ const projects = [
     title: "BIP! Finder",
     slug: "#bip-finder",
     imageUrl: "img/projects/bip.png",
-    subtitle: "An academic search engine that facilitates literature searh by exploiting impact-based ranking.",
+    subtitle: "An academic search engine that facilitates literature search by exploiting impact-based ranking.",
     period: "Jul 2018 - present",
     tech: "PHP; MySQL; Apache Solr",
     description: (
