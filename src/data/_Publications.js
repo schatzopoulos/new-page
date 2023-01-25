@@ -1,4 +1,18 @@
 const publications = [
+        {
+		title: "Atrapos: Evaluating Metapath Query Workloads in Real Time",
+		authors: "S. Chatzopoulos, T. Vergoulis, D. Skoutas, T. Dalamagas, C. Tryfonopoulos, P. Karras",
+		year: 2023, 
+		venue: "The Web Conf (WWW)",
+		links: {
+			// article: 
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	}, 
 	{
 		title: "SurvAnnT: Facilitating Community-led Scientific Surveys and Annotations",
 		authors: "A. Tzerefos, I. Kanellos, S. Chatzopoulos, T. Dalamagas, T. Vergoulis",
