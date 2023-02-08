@@ -1,9 +1,9 @@
 const publications = [
         {
-		title: "Atrapos: Evaluating Metapath Query Workloads in Real Time",
+		title: "Atrapos: Real-time Evaluation of Metapath Query Workloads",
 		authors: "S. Chatzopoulos, T. Vergoulis, D. Skoutas, T. Dalamagas, C. Tryfonopoulos, P. Karras",
 		year: 2023, 
-		venue: "The Web Conf (WWW)",
+		venue: "The Web Conference (WWW)",
 		links: {
 			// article: 
 			// video:
