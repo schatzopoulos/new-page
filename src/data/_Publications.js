@@ -1,4 +1,18 @@
 const publications = [
+	{
+		title: "Piloting topic-aware research impact assessment features in BIP! Services",
+		authors: "S. Chatzopoulos, K. Vichos, I. Kanellos, T. Vergoulis",
+		year: 2023, 
+		venue: "Extended Semantic Web Conference (ESWC)",
+		links: {
+			// article: 
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	}, 
         {
 		title: "Atrapos: Real-time Evaluation of Metapath Query Workloads",
 		authors: "S. Chatzopoulos, T. Vergoulis, D. Skoutas, T. Dalamagas, C. Tryfonopoulos, P. Karras",
