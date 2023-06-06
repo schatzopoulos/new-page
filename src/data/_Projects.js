@@ -3,8 +3,8 @@ import React from "react";
 const projects = [
   {
     category: "Project",
-    title: "OpenAIRE Research Graph",
-    slug: "#openaire-research-grahph",
+    title: "OpenAIRE Graph",
+    slug: "#openaire-grahph",
     imageUrl: 'img/projects/openaire-research-graph.png',
     subtitle:
       "An open resource that aggregates and indexes a collection of research products and related entities.",
