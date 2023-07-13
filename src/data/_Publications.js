@@ -1,5 +1,19 @@
 const publications = [
 	{
+		title: "BIP! NDR (NoDoiRefs): A Dataset of Citations From Papers Without DOIs in Computer Science Conferences and Workshops",
+		authors: "P. Koloveas, S. Chatzopoulos, C. Tryfonopoulos, T. Vergoulis",
+		year: 2023, 
+		venue: "International Conference on Theory and Practice of Digital Libraries (TPDL)",
+		links: {
+			// article: 
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	},
+	{
 		title: "Piloting topic-aware research impact assessment features in BIP! Services",
 		authors: "S. Chatzopoulos, K. Vichos, I. Kanellos, T. Vergoulis",
 		year: 2023, 
