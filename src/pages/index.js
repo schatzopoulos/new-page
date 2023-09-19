@@ -50,7 +50,7 @@ function Home() {
 
           <p style={{ 'textAlign': 'justify' }}>
             I received my <span className="colorDanger">PhD in Computer Science</span> from the <a href="https://dit.uop.gr/" target="_blank">University of the Peloponnese</a> in 2022, 
-            under the survision of <a href="http://users.uop.gr/~trifon/index.html" target="_blank">Prof. Christos Tryfonopoulos</a> (thesis: "Data mining for scholarly information networks"). 
+            under the supervision of <a href="http://users.uop.gr/~trifon/index.html" target="_blank">Prof. Christos Tryfonopoulos</a> (thesis: "Data mining for scholarly information networks"). 
           </p>
 
           <FontAwesomeIcon alt="Code" icon={faTags} />{" "}data mining &middot; graph databases &middot; scientometrics &middot; scientific databases
