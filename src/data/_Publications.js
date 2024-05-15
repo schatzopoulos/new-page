@@ -5,7 +5,7 @@ const publications = [
 		year: 2024, 
 		venue: "World Conference on Research Integrity (WCRI)",
 		links: {
-			// article: 
+			article: "https://zenodo.org/records/11196985" 
 			// video:
 			// slides:
 			// code:
