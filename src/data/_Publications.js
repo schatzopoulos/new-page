@@ -1,5 +1,33 @@
 const publications = [
 	{
+		title: "Easing the burden of creating and managing narrative CVs in academia",
+		authors: "S. Chatzopoulos, P. Koloveas, K. Vichos, T. Vergoulis",
+		year: 2024, 
+		venue: "World Conference on Research Integrity (WCRI)",
+		links: {
+			// article: 
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	},
+		{
+		title: "A PID Metaresolver to enable accurate citation and attribution of digital objects by providing reliable access to metadata and associated resources",
+		authors: "S. Bingert, T. Zamani, K. Kagkelidis, F. Basios, S. Chatzopoulos, A. R. Sajedi",
+		year: 2024, 
+		venue: "International Conference on Current Research Information Systems (CRIS)",
+		links: {
+			article: "https://dspacecris.eurocris.org/bitstream/11366/2558/1/Bingert-et-al_CRIS2024_A-PID-Metaresolver-to-enable-accurate-citation.pdf"
+			// video:
+			// slides:
+			// code:
+			// data:
+			// demo:
+		}
+	},
+	{
 		title: "BIP! NDR (NoDoiRefs): A Dataset of Citations From Papers Without DOIs in Computer Science Conferences and Workshops",
 		authors: "P. Koloveas, S. Chatzopoulos, C. Tryfonopoulos, T. Vergoulis",
 		year: 2023, 
