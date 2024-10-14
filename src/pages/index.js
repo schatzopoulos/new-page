@@ -42,10 +42,7 @@ function Home() {
           <h2 className="colorSuccess" style={{ 'fontSize': '3em' }}>Serafeim Chatzopoulos.</h2>
           <p style={{ 'textAlign': 'justify', 'marginRight': 0}}>
             I am a <span className="colorDanger">Research Associate</span> at {' '}
-            the Information Management Systems Institute (IMSI) of the <a href="https://www.imsi.athenarc.gr/en" target="_blank">ATHENA Research Center</a>
-            , and a <span className="colorDanger">Software & Data Engineer</span> at {' '}
-            <a href="https://www.openaire.eu/" target="_blank">OpenAIRE AMKE</a>
-            .
+            the Information Management Systems Institute (IMSI) of the <a href="https://www.imsi.athenarc.gr/en" target="_blank">ATHENA Research Center</a>.
           </p>
 
           <p style={{ 'textAlign': 'justify' }}>
