@@ -1,11 +1,11 @@
 const publications = [
 	{
-		title: "Easing the burden of creating and managing narrative CVs in academia",
-		authors: "S. Chatzopoulos, P. Koloveas, K. Vichos, T. Vergoulis",
+		title: "A PID Metaresolver to enable accurate citation and attribution of digital objects by providing reliable access to metadata and associated resources",
+		authors: "S. Bingert, A. R. Sajedi, T. Zamani, K. Kagkelidis, F. Basios, S. Chatzopoulos",
 		year: 2024, 
-		venue: "World Conference on Research Integrity (WCRI)",
+		venue: "Procedia Computer Science",
 		links: {
-			article: "https://zenodo.org/records/11196985" 
+			article: "https://doi.org/10.1016/j.procs.2024.11.073"
 			// video:
 			// slides:
 			// code:
@@ -13,13 +13,13 @@ const publications = [
 			// demo:
 		}
 	},
-		{
-		title: "A PID Metaresolver to enable accurate citation and attribution of digital objects by providing reliable access to metadata and associated resources",
-		authors: "S. Bingert, T. Zamani, K. Kagkelidis, F. Basios, S. Chatzopoulos, A. R. Sajedi",
+	{
+		title: "Easing the burden of creating and managing narrative CVs in academia",
+		authors: "S. Chatzopoulos, P. Koloveas, K. Vichos, T. Vergoulis",
 		year: 2024, 
-		venue: "International Conference on Current Research Information Systems (CRIS)",
+		venue: "World Conference on Research Integrity (WCRI)",
 		links: {
-			article: "https://dspacecris.eurocris.org/bitstream/11366/2558/1/Bingert-et-al_CRIS2024_A-PID-Metaresolver-to-enable-accurate-citation.pdf"
+			article: "https://zenodo.org/records/11196985" 
 			// video:
 			// slides:
 			// code:
